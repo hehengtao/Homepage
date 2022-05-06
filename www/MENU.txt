@@ -1,0 +1,9 @@
+Menu
+    Home                [index.html]
+    Research			[research.html]
+	Publication         [publications.html]
+	Awards			[teaching.html]
+    Activities			[activities.html]
+    中文			[zhongwen.html]	
+
+   

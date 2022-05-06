@@ -1,0 +1,86 @@
+# jemdoc: menu{MENU.txt}{publications.html}
+= Publications
+
+
+
+== Book chapters
+
+1. *H. He*, H. Ye, S. Jin, and G. Y. Li, “Machine Learning based Channel Estimation and Signal Detection”
+in Machine Learning and Wireless Communications, /Cambridge University Press/, 2022.
+
+~~~
+== Journals
+1. *H. He*, S. Jin, C.-K. Wen, F. Gao, G. Y. Li, and Z. Xu, “Model-driven deep learning for physical
+layer communications”, /IEEE Wireless Communications/, vol. 26, no. 5, pp. 77-83, Oct. 2019. 
+([https://www.comsoc.org/publications/best-readings/machine-learning-communications IEEE ComSoc Best Readings], ESI Highly Cited Paper)
+
+2. *H. He*, C.-K. Wen, S. Jin, and G. Y. Li, “Model-driven deep learning for MIMO detection,” /IEEE
+Trans. Signal Process./, vol. 68, pp. 1702-1715, Mar. 2020. ([https://www.comsoc.org/publications/best-readings/machine-learning-communications IEEE ComSoc Best Readings], ESI Highly
+Cited Paper)
+
+3. *H. He*, C.-K. Wen, and S. Jin, “Bayesian optimal data detector for hybrid mmWave MIMO-OFDM
+systems with low-resolution ADCs,” /IEEE J. Sel. Topics Signal Processing/., vol. 12, no. 3, pp.
+469-483, June 2018.
+
+4. *H. He*, C.-K. Wen, S. Jin, and G. Y. Li, “Deep learning-based channel estimation for beamspace
+mmWave massive MIMO systems,” /IEEE Wireless Commun. Lett./, vol. 7, no. 5, pp. 852-855, Oct.
+2018. ([https://www.comsoc.org/publications/best-readings/machine-learning-communications IEEE ComSoc Best Readings], ESI Highly Cited Paper)
+
+5. *H. He*, M. Zhang, S. Jin, C.-K. Wen, and G. Y. Li, “Model-driven deep learning for massive MUMIMO
+with finite-alphabet precoding,” /IEEE Commun. Lett./, vol. 24, no. 10, pp. 2216-2220, Oct. 2020.
+
+6. *H. He*, R. Wang, S. Jin, C.-K. Wen, and G. Y. Li, “Beamspace channel estimation in mmWave
+communications: A model-driven unsupervised learning approach,” /IEEE Trans. Wireless Commun./,
+under revised, June. 2020.
+
+7. *H. He*, H.Wang, X. Yu, J. Zhang, S.H. Song, and Khaled B. Letaief, “Cell-Free Massive MIMO Detection:
+A Distributed Expectation Propagation Approach,” /submitted to IEEE Trans. Wireless Commun./,
+Nov. 2021.
+
+8. *H. He*, X. Yu, J. Zhang, S.H. Song, and K. B. Letaief, “Cell-free massive MIMO for 6G wireless
+communication networks,” /J. Commun. Inf. Netw./, vol. 6, no. 4, pp. 321-335, Dec. 2021. (Invited
+Paper)
+
+9. Y. He, *H. He*, C.-K. Wen, and S. Jin, “Model-driven deep learning for massive multiuser MIMO
+constant envelope precoding,” /IEEE Wireless Commun. Lett./, vol. 9, no. 11, pp. 1835-1839, Nov. 2020.
+~~~
+
+
+~~~
+== Conferences
+
+
+1. *H. He*, C.-K.Wen, and S. Jin, “Generalized expectation consistent signal recovery for nonlinear
+measurements,” in /Proc. IEEE Int. Symp. Inf. Theory (ISIT)/, Jun. 2017, pp. 2333-2337.
+
+2. *H. He*, C.-K. Wen, S. Jin, and G. Y. Li, “A model-driven deep learning network for MIMO
+detection,” in /Proc. IEEE Glob. Conf. Signal Inf. Process./, Anaheim, CA, Nov. 2018, pp. 584-588.
+
+3. *H. He*, H.Wang, X. Yu, J. Zhang, S.H. Song, K. B. Letaief, “Distributed expectation propagation
+detection for cell-free massive MIMO,”  /Proc. IEEE Global Commun. Conf. (GLOBECOM)/, Madrid,
+Spain, 2021.
+
+4. *H. He*, X. Yu, J. Zhang, S.H. Song, K. B. Letaief, “Graph neural network enhanced
+approximate message passing for MIMO detection,”  /submitted to Proc. IEEE Global Commun. Conf.
+(GLOBECOM)./, Rio de Janeiro, Brazil, 2022.
+
+5. R.Wang, *H. He*, S. Jin, X.Wang, and X. Hou, “Channel estimation for millimeter wave massive
+MIMO systems with low-resolution ADCs,” in /Proc.IEEE Int. Workshop Signal Process. Adv. Wireless
+Commun.(SPAWC)/, Cannes, France, 2019.
+
+6. J. Zhang, *H. He*, C.-K.Wen, S. Jin, and G. Y. Li,“Deep learning based on orthogonal approximate
+message passing for CP-free OFDM,” in /Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP)/,
+Brighton, U.K., May. 2019, pp. 1-6.
+
+7. J. Zhang, *H. He*, X. Yang, C.-K. Wen, S. Jin, and X. Ma, “Model-driven deep learning based
+Turbo-MIMO receiver,” in /Proc. IEEE Int. Workshop Signal Process. Adv. Wireless Commun.(SPAWC)/,
+2020.
+
+8. W. Jin, *H. He*, C.-K. Wen, S. Jin, and G. Y. Li, “Adaptive channel estimation based on
+model-driven deep learning for wideband mmWave Systems,” in /Proc. IEEE Global Commun. Conf.
+(GLOBECOM)/, Madrid, Spain, Dec. 2021.
+
+9. W. Yu, Y. Shen, *H. He*, X. Yu, J. Zhang, and Khaled B. Letaief,  “Hybrid Far- and Near-Field Channel Estimation for THz Ultra-Massive MIMO via Fixed Point Networks,”
+ /submitted to Proc. IEEE Global Commun. Conf. (GLOBECOM)./, Rio de Janeiro, Brazil, 2022.
+
+~~~

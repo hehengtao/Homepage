@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU.txt}{index.html}, nofooter  
+==Hengtao He
+
+~~~
+{}{img_left}{Hengtao_He.jpg}{alt text}{131}{160}{https://scholar.google.com/citations?user=ppTfjd8AAAAJ&hl=zh-CN}
+Post-Doctoral Research Fellow,\n [https://ece.hkust.edu.hk/ Department of Electronic and Computer Engineering (ECE)], 
+[https://hkust.edu.hk/ HKUST]\n
+
+Phone: \+852 6433 8924 (Hong Kong)\n
+Phone: \+886 13770729415 (Mainland of China)\n
+Fax: \+852 6433 8924\n
+E-post: /eehthe/ \[@\] ust \[DOT\] hk
+~~~
+
+~~~
+== About me
+I received the B.S. degree in communications engineering from Nanjing University of Science and Technology, Nanjing, China, in 2015, and the Ph.D. degree 
+in information and communications engineering from Southeast University, China, in 2020 under the supervision of 
+[https://scholar.google.com/citations?user=xGkd6qwAAAAJ&hl=zh-CN/ Prof. Shi Jin]. From October 2018 to January 2020, 
+I was a Visiting Student with the Department of Electrical and Computer Engineering at the Georgia Institute of Technology, Atlanta, GA, USA
+under the supervision of [https://scholar.google.com/citations?user=d0FzG8YAAAAJ&hl=zh-CN/ Prof. Geoffrey Ye Li]. 
+I am currently a Post-Doctoral Research Fellow with the Department of Electrical and Computer Engineering at The Hong Kong University of Science and Technology (HKUST), 
+Hong Kong under the supervision of  [https://scholar.google.com/citations?user=6WLhtHgAAAAJ&hl=zh-CN/ Prof. Khaled B. Letaief].
+
+~~~
+
+== Research
+My research interests include
+- machine learning for wireless communications
+- millimeter wave communications 
+- cell-free massive MIMO
+
+
+
+[CV_Hengtao_He_2022.pdf A brief cv].
